@@ -118,31 +118,31 @@ export default {
         {
           image: require('@/assets/img/photo.jpg'),
           from: '傻逼头我儿子',
-          time: '2017-1-8',
+          time: '2017-01-08',
           message: 'I like your website very much!'
         },
         {
           image: require('@/assets/img/photo.jpg'),
           from: '阎王爷饶志浩',
-          time: '2017-1-8',
+          time: '2017-01-08',
           message: 'I like your website very much!'
         },
         {
           image: require('@/assets/img/photo.jpg'),
           from: '丰弟弟',
-          time: '2017-1-8',
+          time: '2017-01-08',
           message: 'I like your website very much!'
         },
         {
           image: require('@/assets/img/photo.jpg'),
           from: 'JesseLuo',
-          time: '2017-1-8',
+          time: '2017-01-08',
           message: 'I like your website very much!'
         },
         {
           image: require('@/assets/img/photo.jpg'),
           from: 'JesseLuo',
-          time: '2017-1-8',
+          time: '2017-01-08',
           message: 'I like your website very much!'
         }
       ]

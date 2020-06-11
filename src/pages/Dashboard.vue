@@ -20,7 +20,7 @@
       </Col>
       <Col :lg="18">
         <VmProgress title="Working Progress" :data="dataProgress"></VmProgress>
-      </Col>  
+      </Col>
     </Row>
     <Row :gutter="16">
       <Col :lg="16">
@@ -62,7 +62,7 @@
         </VmTabs>
         <VmWeather class="vm-margin" :data="dataWeather">
         </VmWeather>
-      </Col> 
+      </Col>
     </Row>
   </div>
 </template>
@@ -185,5 +185,5 @@ export default {
 </script>
 
 <style lang="less">
-  
+
 </style>
